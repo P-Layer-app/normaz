@@ -6,6 +6,15 @@ Normaz is a lightweight macOS utility for batch audio normalization designed for
 
 It creates normalized copies of audio files inside a separate Normalized folder while keeping the original files untouched.
 
+## Download
+
+### Apple Silicon (M1 / M2 / M3)
+
+[Download for Apple Silicon](https://github.com/P-Layer-app/normaz/releases/latest/download/Normaz-mac-arm64.dmg)
+
+### Intel Macs
+
+[Download for Intel](https://github.com/P-Layer-app/normaz/releases/latest/download/Normaz-mac-x64.dmg)
 ---
 
 ## Features
