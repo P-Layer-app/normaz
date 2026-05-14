@@ -1,3 +1,6 @@
+
+![Normaz Screenshot](normaz1.png)
+
 # Normaz
 
 Normaz is a lightweight macOS utility for batch audio normalization designed for broadcasters, online radio stations, and music library preparation for on-air playback.
