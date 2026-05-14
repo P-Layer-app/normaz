@@ -15,7 +15,7 @@ It creates normalized copies of audio files inside a separate Normalized folder 
 ### Intel Macs
 
 [Download for Intel](https://github.com/P-Layer-app/normaz/releases/latest/download/Normaz-mac-x64.dmg)
----
+
 
 ## Features
 
